@@ -11,7 +11,7 @@
 ## 使用ライブラリ
 * [realm-swift](https://github.com/realm/realm-swift)
 
-##アプリイメージ
+## アプリイメージ
 メイン画面
 ![mainImage](https://github.com/clanya/ImageStorage/blob/main/TDU_Timetable/main.png)
 <br />
