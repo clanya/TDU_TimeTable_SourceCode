@@ -11,4 +11,19 @@
 ## 使用ライブラリ
 * [realm-swift](https://github.com/realm/realm-swift)
 
+##アプリイメージ
+メイン画面
+![mainImage](https://github.com/clanya/ImageStorage/blob/main/TDU_Timetable/main.png)
+<br />
 
+授業設定画面
+![mainImage](https://github.com/clanya/ImageStorage/blob/main/TDU_Timetable/classSettings.png)
+<br />
+
+上記画面の「リストから選択」を押すと、以下の画像のようにリストが表示され、自動で入力されます。
+![mainImage](https://github.com/clanya/ImageStorage/blob/main/TDU_Timetable/classDataList.png)
+![mainImage](https://github.com/clanya/ImageStorage/blob/main/TDU_Timetable/Input_Auto.png)
+<br />
+
+時間割設定画面
+![mainImage](https://github.com/clanya/ImageStorage/blob/main/TDU_Timetable/timetableSettings.png)
